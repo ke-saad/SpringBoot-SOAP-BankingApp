@@ -1,0 +1,54 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven dependencies
+/.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+target/
+
+# Eclipse/IntelliJ IDEA project files
+.classpath
+.factorypath
+.project
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+
+# WSDL and generated Java files (if generated dynamically)
+src/main/java/com/example/generated/
+
+# Config files
+*.env
+application.properties
+application.yml
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# JetBrains user-specific files
+.idea/modules.xml
+.idea/.name
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules
+
+# Others
+*.lock
